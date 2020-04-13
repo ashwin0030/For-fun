@@ -1,4 +1,3 @@
-# KnightPath
 # Program to visualize the path of a knight over a board
 from cs1lib import start_graphics, clear, draw_circle, draw_rectangle, set_fill_color, set_stroke_color
 # parameters
